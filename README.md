@@ -76,3 +76,7 @@ To stop docker container
 ```commandline
 docker stop <container_id>
 ```
+
+```commandline
+python setup.py install
+```
