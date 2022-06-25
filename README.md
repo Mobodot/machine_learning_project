@@ -80,3 +80,8 @@ docker stop <container_id>
 ```commandline
 python setup.py install
 ```
+
+Install ipykernel
+```
+pip install ipykernel
+```
