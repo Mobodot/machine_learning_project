@@ -85,3 +85,5 @@ Install ipykernel
 ```
 pip install ipykernel
 ```
+
+## Write a function to get training file path from artifact dir
